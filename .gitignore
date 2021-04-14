@@ -1,1 +1,4 @@
 .idea
+/target
+/rust/target/
+/rust/Cargo.lock
